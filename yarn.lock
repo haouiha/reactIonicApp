@@ -1109,6 +1109,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@capacitor/android@^2.2.0":
+  version "2.4.7"
+  resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-2.4.7.tgz#c7edc5322dbd1db79c61b1f4e579b7b81024ce5d"
+  integrity sha512-7jcmwheo94dJEOX1z4r3SlZrL+MvESav1xsUwC5ydLFZCpuvBKJ0szbDNWzCAglgpXmW9hC0WdwYBErgDrDPRg==
+
 "@capacitor/cli@2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@capacitor/cli/-/cli-2.2.0.tgz#477b086eff9e158aef72fb3b2807007425d4b951"
@@ -1132,6 +1137,11 @@
   integrity sha512-ClxXjOUCF0wZpznZI6f6uXK2LLzWBx5Ly/g7Hqu8R8wNdaKYoh83eMuT+m5G1gfxhcALAAJNUhHccnCW3ohftg==
   dependencies:
     tslib "^1.9.0"
+
+"@capacitor/ios@^2.2.0":
+  version "2.4.7"
+  resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-2.4.7.tgz#03eecc5348d2ac84e62fc17ae37cc266bcc6a437"
+  integrity sha512-XKYU67ZM+yY4/vDJ3ZVfs+phjtWK8TcKwq75fGoxB9PKXuCmMi5bihPuA3Xs/sIFXuozpnaYnspp0eTRJ7bG0w==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
@@ -6872,9 +6882,9 @@ memory-fs@^0.5.0:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
-  integrity sha512-T7qC8kg4Zoti1cFd8Cr0M+qaZfOwjlPDEdZIIPPB2JZctjaPM4fX+i7HOId69tAti2fvO6X5ldfYUONDODsrkA==
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
+  integrity sha512-qtmzAS6t6grwEkNrunqTBdn0qKwFgNWvlxUbAV8es9M7Ot1EbyApytCnvE0jALPa46ZpKDUo527kKiaWplmlFA==
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"

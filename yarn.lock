@@ -1109,6 +1109,11 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@capacitor/android@^2.2.0":
+  version "2.4.8"
+  resolved "https://registry.yarnpkg.com/@capacitor/android/-/android-2.4.8.tgz#7a60cfd0ae9e336d9064a988fc56a7763657f7f5"
+  integrity sha512-uFTXsh9YBR/eBgqTZRIpSWCp59wbIKJGfsGB6dufxV3fYkiGJkMVZ1QoBnqcY5hk+qIB0nM3ZyUDc6wMq+HLnw==
+
 "@capacitor/cli@2.2.0":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@capacitor/cli/-/cli-2.2.0.tgz#477b086eff9e158aef72fb3b2807007425d4b951"
@@ -1132,6 +1137,11 @@
   integrity sha512-ClxXjOUCF0wZpznZI6f6uXK2LLzWBx5Ly/g7Hqu8R8wNdaKYoh83eMuT+m5G1gfxhcALAAJNUhHccnCW3ohftg==
   dependencies:
     tslib "^1.9.0"
+
+"@capacitor/ios@^2.2.0":
+  version "2.4.8"
+  resolved "https://registry.yarnpkg.com/@capacitor/ios/-/ios-2.4.8.tgz#61fd20ef84ebf23b6763830d14beb531c2e210b3"
+  integrity sha512-TTNa6j4JVPCxqXnJI2y8IfgprjucfbfNVol34M2dxRF3D3xtDbxB2KFi2M4dobp9vjHO7X+2AxZ99plSzLIJzw==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"
@@ -7769,9 +7779,9 @@ path-key@^3.1.0:
   integrity sha512-ojmeN0qd+y0jszEtoY48r0Peq5dwMEkIlCOu6Q5f41lfkswXuKtYrhgoTpLnyIcHm24Uhqx+5Tqm2InSwLhE6Q==
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
